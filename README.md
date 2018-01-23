@@ -78,7 +78,7 @@ Função | Descrição
 **Function.prototype.call()** | chama uma função. 
 **Function.prototype.toString()** | retorna o código fonte de uma função. 
 
-**Objeto global _document_**
+**Objeto global document**
 
 _Propriedades_
 Propriedade | Descrição
@@ -100,7 +100,7 @@ Função | Descrição
 **document.querySelectorAll("lista de seletores")** | retorna um array de nodos DOM (NodeList) a partir de document (raiz) ou de uma sobárvore **elemento.querySelectorAll("lista de seletores")**
 **document.hasFocus()** | retorna **true** se algum elemento do documento atual possui o foco.
 
-**Objeto global _window_**
+**Objeto global window**
 
 _Propriedades_
 Propriedade | Descrição
