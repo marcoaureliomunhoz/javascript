@@ -299,3 +299,14 @@ Internet Explorer | Trident (mshtml.dll) | JScript (jscript.dll)
 Safari | WebCore/WebKit | SquirrelFish 
 Google Chrome | WebCore/WebKit | V8 
 Firefox | Gecko | SpiderMonkey ou TraceMonkey
+
+--- 
+
+**Fontes** 
+
+- Livro Javascript de Alto Desempenho - novatec
+- https://www.youtube.com/user/rodrigobranas
+- https://www.w3schools.com/js
+- https://www.caelum.com.br/curso-html-css-javascript
+- https://www.caelum.com.br/apostila-html-css-javascript
+- https://jquery.com
