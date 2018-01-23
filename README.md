@@ -120,7 +120,8 @@ Propriedade | Descrição
 **window.screen** | referência para acesso a propriedades e métodos do objeto screen.
 **window.status** | conteúdo da status bar.
 
-_Funções_
+_Funções_  
+
 Função | Descrição
 --- | --- 
 **window.alert("texto")** | exibe um diálogo de alerta.
