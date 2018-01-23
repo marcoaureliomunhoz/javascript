@@ -78,9 +78,10 @@ Função | Descrição
 **Function.prototype.call()** | chama uma função. 
 **Function.prototype.toString()** | retorna o código fonte de uma função. 
 
-**Objeto global document**
+**Objeto global _document_**
 
-_Propriedades_
+_Propriedades_  
+
 Propriedade | Descrição
 --- | --- 
 **document.activeElement** | retorna o elemento que possui o foco.
@@ -89,7 +90,8 @@ Propriedade | Descrição
 **document.URL** | URI somente leitura da página corrente
 **document.cookie** | retorna uma string com os cookies relacionados ao domínio
 
-_Funções_
+_Funções_  
+
 Função | Descrição
 --- | --- 
 **document.getElementById("id")** | retorna um elemento ativo HTML
@@ -100,9 +102,10 @@ Função | Descrição
 **document.querySelectorAll("lista de seletores")** | retorna um array de nodos DOM (NodeList) a partir de document (raiz) ou de uma sobárvore **elemento.querySelectorAll("lista de seletores")**
 **document.hasFocus()** | retorna **true** se algum elemento do documento atual possui o foco.
 
-**Objeto global window**
+**Objeto global _window_**
 
-_Propriedades_
+_Propriedades_  
+
 Propriedade | Descrição
 --- | --- 
 **window.document** | referência para o objeto global document.
