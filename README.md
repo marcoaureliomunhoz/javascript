@@ -306,6 +306,22 @@ Firefox | Gecko | SpiderMonkey ou TraceMonkey
 
 --- 
 
+**ECMA Script**
+
+ECMA Script nada mais do que a especificação de uma linguagem baseada em scripts. Já o Javascript é uma tecnologia de desenvolvimento que segue a especificação ECMAScript.
+
+Versões
+- ES5 - 2009 a 2011 - Totalmente suportada pelos navegadores.
+- ES6 - 2015 - Não totalmente suportada pelos navegadores. Inovações: let, const, tipagem, class, arrow function e várias outras.
+- ES7 - 2016
+- ES8 - 2017
+
+Transpilers  
+- TypeScript: https://www.typescriptlang.org
+- Babel: https://babeljs.io
+
+--- 
+
 **Fontes** 
 
 - Livro Javascript de Alto Desempenho - novatec
@@ -314,3 +330,7 @@ Firefox | Gecko | SpiderMonkey ou TraceMonkey
 - https://www.caelum.com.br/curso-html-css-javascript
 - https://www.caelum.com.br/apostila-html-css-javascript
 - https://jquery.com
+- https://pt.wikipedia.org/wiki/ECMAScript
+- https://en.wikipedia.org/wiki/ECMAScript
+- http://es6-features.org
+- https://www.ecma-international.org
